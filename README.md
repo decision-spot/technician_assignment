@@ -35,7 +35,8 @@ The model size is intentionally small to ensure even those without access to Gur
 ## Google Colab
 If you like to access the notebooks in Google Colab, click: 
 - [technician_routing](https://colab.research.google.com/github/decision-spot/technician_assignment/blob/main/technician_routing.ipynb)
-- [resource_assignment](https://colab.research.google.com/github/decision-spot/technician_assignment/blob/main/resource_assignment_complete.ipynb)
+- [resource_assignment complete](https://colab.research.google.com/github/decision-spot/technician_assignment/blob/main/resource_assignment_complete.ipynb)
+- [resource_assignment practice](https://colab.research.google.com/github/decision-spot/technician_assignment/blob/main/resource_assignment.ipynb)
 
 Note that you must sign in with a Google account to be able to run the code in Colab.
 
